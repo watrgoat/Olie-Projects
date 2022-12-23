@@ -1,2 +1,2 @@
 # juni
-My programming assignments
+Programming projects collection
