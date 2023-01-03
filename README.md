@@ -1,2 +1,2 @@
-# juni
-Programming projects collection
+# Projects
+Collection of my programming projects
